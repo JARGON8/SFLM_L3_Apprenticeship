@@ -3,7 +3,7 @@
 This repository is my **comprehensive, site-neutral portfolio and study hub** for the ST0330 Level 3 Security First Line Management apprenticeship.  
 It maps every required area of the standard to **practical, anonymised evidence**, supported by study notes, templates, and professional reflections.
 
-- Maintained by **Jorge Ariel Santiago Gonzalez**  
+- Maintained by **JARGON8**  
 - Standard reference: See **`ST0330_LINK.md`** for the official assessment plan link.  
 - Assessment methods: **Observation**, **Apprentice Presentation**, **Synoptic Assessment Interview**.  
 
