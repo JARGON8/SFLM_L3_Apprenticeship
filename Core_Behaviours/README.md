@@ -1,23 +1,23 @@
 # Core Behavioural Competencies (per assessment plan)
 
-This folder is for recording **anonymised examples** of how I demonstrate the required professional behaviours during day-to-day work, training exercises, and observations. Each example should be linked to the **Annex criteria** in the ST0330 assessment plan.
+This folder is where I record anonymised examples of how I demonstrate the professional behaviours required in the apprenticeship standard. I use this as a working log during day-to-day work, training exercises, and observations. Each example is linked to the Annex criteria in the ST0330 assessment plan.
 
 ---
 
 ## Behavioural Competencies
 
 ### 1. Security Conscious
-- **Definition:** Work in a manner that promotes the security of people, property, and premises.  
+- **Definition:** I work in a way that protects people, property, and premises.  
 - **Example Template:**  
-  - **Date/Context:** (e.g. routine patrol, incident response, event)  
-  - **Action Taken:** (generic description, no site/client names)  
-  - **Outcome:** (what was achieved)  
-  - **Reflection:** (what I learned, how it maps to criteria)  
+  - **Date/Context:** (e.g. routine patrol, incident response, training exercise)  
+  - **Action Taken:** (what I did, described in generic terms)  
+  - **Outcome:** (what was achieved as a result of my actions)  
+  - **Reflection:** (what I learned and how it links to the criteria)  
 
 ---
 
 ### 2. Professional
-- **Definition:** Demonstrate conduct that aligns with organisational standards.  
+- **Definition:** I maintain conduct that meets organisational standards at all times.  
 - **Example Template:**  
   - **Date/Context:**  
   - **Action Taken:**  
@@ -27,7 +27,7 @@ This folder is for recording **anonymised examples** of how I demonstrate the re
 ---
 
 ### 3. Courteous & Respectful
-- **Definition:** Communicate politely and respectfully, even in challenging situations.  
+- **Definition:** I remain polite, respectful, and considerate, even in difficult situations.  
 - **Example Template:**  
   - **Date/Context:**  
   - **Action Taken:**  
@@ -37,7 +37,7 @@ This folder is for recording **anonymised examples** of how I demonstrate the re
 ---
 
 ### 4. Calm
-- **Definition:** Enhance security performance by using conflict management techniques and maintaining composure.  
+- **Definition:** I keep my composure under pressure and use conflict management techniques to defuse situations.  
 - **Example Template:**  
   - **Date/Context:**  
   - **Action Taken:**  
@@ -47,7 +47,7 @@ This folder is for recording **anonymised examples** of how I demonstrate the re
 ---
 
 ### 5. Customer Focused
-- **Definition:** Exceed customer expectations and add value where possible.  
+- **Definition:** I look for ways to exceed expectations and add value in my role.  
 - **Example Template:**  
   - **Date/Context:**  
   - **Action Taken:**  
@@ -57,7 +57,7 @@ This folder is for recording **anonymised examples** of how I demonstrate the re
 ---
 
 ### 6. Confidential
-- **Definition:** Protect sensitive information by complying with policy and legislation.  
+- **Definition:** I protect sensitive information and comply with policy and legislation at all times.  
 - **Example Template:**  
   - **Date/Context:**  
   - **Action Taken:**  
@@ -67,7 +67,7 @@ This folder is for recording **anonymised examples** of how I demonstrate the re
 ---
 
 ### 7. Integrity
-- **Definition:** Work for the greater good, maintaining high standards without compromise.  
+- **Definition:** I work with honesty and high standards, making decisions that serve the greater good rather than personal benefit.  
 - **Example Template:**  
   - **Date/Context:**  
   - **Action Taken:**  
@@ -77,7 +77,8 @@ This folder is for recording **anonymised examples** of how I demonstrate the re
 ---
 
 ## Guidance
-- Keep all examples **generic and anonymised** — no client names, locations, or sensitive details.  
-- Reflect on **what you did**, **what impact it had**, and **how it links to the Annex criteria**.  
-- Use consistent formatting so examples can be cross-referenced during assessment.  
-- Update this folder regularly — even small everyday examples build strong evidence.  
+
+- I keep all examples **generic and anonymised** — no client names, no specific locations, no sensitive details.  
+- I focus on **what I did**, the **impact of my actions**, and how each example links to the **Annex criteria**.  
+- I use consistent formatting so that evidence can be easily cross-referenced during assessment.  
+- I update this folder regularly, as even everyday actions can provide strong evidence of my behaviours.
