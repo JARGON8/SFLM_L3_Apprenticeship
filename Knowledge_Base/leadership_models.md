@@ -1,51 +1,70 @@
 # Leadership & People Management
 
-As a Security First Line Manager apprentice, I recognise that my role is not only to ensure operational effectiveness but also to lead, motivate, and support the people I work with. Security teams perform best when leadership is adaptable, welfare is prioritised, and recognition is consistent. Below I outline the main approaches I apply and develop through my apprenticeship.
+As a Security First Line Manager apprentice, I recognise that my role is not only to ensure operational effectiveness but also to lead, motivate, and support the people I work with. Security teams perform best when leadership is adaptable, welfare is prioritised, and recognition is consistent. This section reflects what I have learned during my apprenticeship, aligned to UK standards and official guidance.
 
 ---
 
 ## Situational Leadership, Coaching, and Feedback
 
-I have learned that there is no single “best” leadership style. Through the **Situational Leadership model (Hersey & Blanchard)**, I adapt my approach depending on the competence and commitment of the individual or team:
+I apply the **Situational Leadership model (Hersey & Blanchard)**, adapting my approach depending on the competence and commitment of the individual or team:
 
-- **Directing (high task, low relationship):** Useful with new staff who need close guidance, such as new starters learning site procedures.  
-- **Coaching (high task, high relationship):** Balances guidance with encouragement; helpful when team members are developing confidence.  
-- **Supporting (low task, high relationship):** Suitable when staff are competent but need motivation or reassurance, e.g. during a difficult shift.  
-- **Delegating (low task, low relationship):** Appropriate when staff are skilled, experienced, and trusted to perform tasks independently.
+- **Directing:** High task, low relationship – used with new staff who need close guidance.  
+- **Coaching:** High task, high relationship – balancing guidance with encouragement when team members are developing.  
+- **Supporting:** Low task, high relationship – encouraging competent officers who need motivation or reassurance.  
+- **Delegating:** Low task, low relationship – allowing skilled and trusted staff to perform tasks independently.
 
-Alongside situational leadership, I apply **coaching techniques**: asking open questions, encouraging self-reflection, and guiding officers to find their own solutions rather than always giving direct instructions.  
+Alongside this, I use **coaching techniques** (open questions, active listening, reflection) to encourage problem-solving.  
 
-**Feedback** is another critical element. I practise delivering it in a way that is:  
-- **Timely:** given close to the event.  
-- **Specific:** focusing on behaviours, not personalities.  
-- **Balanced:** recognising what went well before addressing improvements.  
-- **Constructive:** suggesting clear actions or alternatives.  
+Feedback is structured to be:  
+- **Timely** – given close to the event.  
+- **Specific** – focused on behaviours, not personalities.  
+- **Balanced** – recognising positives as well as improvements.  
+- **Constructive** – with clear, practical actions.
+
+📖 **Standards & Guidance:**  
+- [GovS 007: Security (UK Government Functional Standard)](https://assets.publishing.service.gov.uk/media/613a195bd3bf7f05b694d647/GovS_007-_Security.pdf) – defines accountability and responsibilities in security management.  
+- [BS 10800:2020 – Provision of Security Services, Code of Practice](https://knowledge.bsigroup.com/products/provision-of-security-services-code-of-practice) – includes requirements for staffing, training, performance monitoring, and leadership responsibility.  
 
 ---
 
 ## Motivation and Recognition in Security Teams
 
-I have seen first-hand that security officers work better when they feel valued. During my apprenticeship, I have studied motivational theories (e.g. **Maslow’s hierarchy of needs** and **Herzberg’s two-factor theory**) and applied them to real workplace situations:
+Through my apprenticeship I have studied motivational theories (e.g. **Maslow’s Hierarchy of Needs** and **Herzberg’s Two-Factor Theory**) and applied them to the workplace:
 
-- **Basic needs:** Fair pay, safe working conditions, and reliable rostering are essential.  
-- **Belonging and esteem:** Recognition in team meetings or direct praise helps build pride and morale.  
-- **Growth:** Offering development opportunities (e.g. training, mentoring, shadowing senior officers) motivates staff to see security as a career rather than just a job.
+- **Basic needs:** Fair pay, safe conditions, and reliable rostering.  
+- **Belonging and esteem:** Recognition in team meetings, or passing on client praise, builds morale.  
+- **Growth:** Training, mentoring, and shadowing opportunities encourage staff to see security as a career.
 
-Recognition does not always need to be formal. A genuine “thank you,” passing positive feedback from a client, or highlighting good practice in a debrief can be very powerful. I also make sure that recognition is **fair and inclusive** across the team to avoid perceptions of favouritism.
+Recognition is powerful when it is **fair, consistent, and inclusive**. It may be as simple as thanking someone personally or sharing good practice during a debrief.  
+
+📖 **Standards & Guidance:**  
+- [BS 10800:2020](https://knowledge.bsigroup.com/products/provision-of-security-services-code-of-practice) – emphasises staff support and role clarity as part of service provision.  
+- [Improving Security Culture (UK Government Guidance)](https://www.security.gov.uk/policy-and-guidance/improving-security-culture/) – highlights that a positive culture relies on visible leadership and consistent reinforcement.  
 
 ---
 
 ## Managing Welfare, Rostering, Fatigue, and Fairness
 
-Security work often involves **long shifts, night work, and public interaction**, which can affect welfare and performance. As a developing leader, I take the following responsibilities seriously:
+Leadership in security also means taking responsibility for welfare, rostering, and fairness. I have learned to:
 
-- **Welfare:** I monitor team wellbeing during shifts, ensuring officers take breaks and raising concerns if someone is unfit for duty. I am also learning to spot signs of stress or fatigue and to encourage use of welfare support services if available.  
-- **Rostering:** Fair rostering is essential to maintain morale. I aim to balance operational needs with individual circumstances, ensuring shifts are distributed fairly and preferences are considered where possible.  
-- **Fatigue management:** I have learned about the risks of long working hours, especially in 12-hour patterns. I promote safe practices such as ensuring adequate rest, rotating roles during shifts, and raising concerns if excessive hours are impacting safety.  
-- **Fairness:** I apply policies consistently, communicate decisions clearly, and listen to staff concerns. By treating colleagues with respect and fairness, I build trust and credibility as a leader.
+- **Monitor welfare:** Checking that officers take breaks, have hydration, and are fit for duty.  
+- **Roster fairly:** Balancing operational needs with staff availability and preferences where possible.  
+- **Manage fatigue:** Avoiding excessive long shifts, rotating roles during duty, and raising concerns if staff are overstretched.  
+- **Apply fairness:** Making consistent, transparent decisions and listening to staff concerns to build trust.  
+
+📖 **Standards & Guidance:**  
+- [BS 10800:2020](https://knowledge.bsigroup.com/products/provision-of-security-services-code-of-practice) – details expectations for staffing levels, working arrangements, and monitoring.  
+- [GovS 007: Security](https://assets.publishing.service.gov.uk/media/613a195bd3bf7f05b694d647/GovS_007-_Security.pdf) – emphasises accountability and clear role responsibilities.  
+- [HMG Personnel Security Controls](https://www.gov.uk/government/publications/hmg-personnel-security-controls/hmg-personnel-security-controls-html) – guidance on staff integrity, vetting, and fairness in security management.  
 
 ---
 
 ## Reflection
 
-Through this apprenticeship, I have developed a clearer understanding that **effective leadership in security is about people first, process second**. While I must ensure compliance, vigilance, and discipline, I can only achieve this by leading in a way that adapts to different situations, motivates my team, and safeguards their welfare. This approach directly supports the behaviours required in the ST0330 standard: professionalism, courtesy, calmness, confidentiality, customer focus, and integrity.
+I have developed a clearer understanding that **effective leadership in security is about people first, process second**. While compliance, vigilance, and discipline remain essential, I can only achieve them by:
+
+- Adapting my style to the individual and situation.  
+- Motivating and recognising staff fairly.  
+- Safeguarding welfare through responsible rostering and support.  
+
+This approach reflects the professional behaviours required in the ST0330 standard: professionalism, courtesy, calmness, confidentiality, customer focus, and integrity.
