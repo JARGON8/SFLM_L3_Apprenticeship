@@ -1,0 +1,13 @@
+# OS & editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / cache / temp
+__pycache__/
+*.tmp
+*.log
+
+# Keep this repo clean and public-safe
+# Do NOT add live site-specific operational documents.
