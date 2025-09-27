@@ -105,11 +105,15 @@ I use this file as my quick-reference guide to the UK laws, regulations, and for
 
 ## 9) Mapping to ST0330
 
-- **Area 1 (Health & Safety)** – H&S law in risk assessments and drills.  
-- **Area 3 (Security Risk Management)** – GDPR, PoFA, and ICO guidance in risk controls.  
-- **Area 7 (Compliance Management)** – SIA licensing, privacy compliance, and legal checks.  
-- **Area 8 (Communication)** – Professional, anonymised reporting and secure communication.  
-- **Area 10 (Operational Management)** – Implementing British Standards and auditing compliance.  
+- **Area 1 (Health & Safety)** – Apply the [Health and Safety at Work etc. Act 1974](https://www.legislation.gov.uk/ukpga/1974/37/contents) and [Management of Health and Safety at Work Regulations 1999](https://www.legislation.gov.uk/uksi/1999/3242/contents/made) when carrying out risk assessments, safety checks, and drills.  
+
+- **Area 3 (Security Risk Management)** – Integrate [UK GDPR](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/), [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted), the [Protection of Freedoms Act 2012 Surveillance Camera Code of Practice](https://www.gov.uk/government/publications/surveillance-camera-code-of-practice), and [ICO CCTV Guidance](https://ico.org.uk/for-organisations/guide-to-data-protection/key-data-protection-themes/video-surveillance-cctv/) when planning controls and assessing risks.  
+
+- **Area 7 (Compliance Management)** – Ensure compliance with the [Private Security Industry Act 2001](https://www.legislation.gov.uk/ukpga/2001/12/contents), [SIA Licence Conditions](https://www.sia.homeoffice.gov.uk/Pages/licensing-licence.aspx), and relevant privacy regulations ([UK GDPR](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/), [DPA 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)).  
+
+- **Area 8 (Communication)** – Follow ICO principles on [data protection and secure communication](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/) to ensure professional, anonymised reporting and lawful sharing of information.  
+
+- **Area 10 (Operational Management)** – Implement recognised standards such as [BS 10800:2020](https://shop.bsigroup.com/products/provision-of-security-services-code-of-practice), [BS 7858:2019](https://shop.bsigroup.com/products/screening-of-individuals-working-in-a-secure-environment-code-of-practice), and [BS 7958:2015](https://shop.bsigroup.com/products/closed-circuit-television-cctv-management-and-operation-code-of-practice) to manage operations and audit compliance effectively.
 
 ---
 
