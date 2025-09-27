@@ -1,4 +1,4 @@
-# Laws & Regulations (Security Officers + Cybersecurity)
+# UK Legal & Regulatory Framework for Security and Privacy
 
 I use this file as my quick-reference guide to the UK laws, regulations, and formal guidance that affect my day-to-day work as a security officer and my broader responsibilities around information security and privacy. It helps me evidence legal compliance across the ST0330 standard while keeping all examples anonymised and site-neutral.
 
