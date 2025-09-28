@@ -7,11 +7,11 @@
 In the Security First Line Manager apprenticeship, Corporate Social Responsibility (CSR) refers to how organisations – and their security teams – contribute positively to **society, the environment, and the local community**, while maintaining high standards of professionalism and ethics.  
 
 For me as a frontline leader, this means:  
-- Supporting sustainability initiatives (energy saving, recycling, reducing waste)  
-- Promoting inclusivity, equality, and accessibility for all building users  
-- Encouraging responsible behaviours among staff, contractors, and visitors  
-- Supporting community safety initiatives (e.g. counter-terror awareness, public reassurance)  
-- Acting with integrity and professionalism in line with company values  
+- Supporting **sustainability initiatives** (energy saving, recycling, reducing waste)  
+- Promoting **inclusivity, equality, and accessibility** for all building users  
+- Encouraging **responsible behaviours** among staff, contractors, and visitors  
+- Supporting **community safety initiatives** (e.g. counter-terror awareness, public reassurance)  
+- Acting with **integrity and professionalism** in line with company values  
 
 ---
 
@@ -26,19 +26,20 @@ Assessors will expect me to:
   - Reflect on the wider impact of ethical and sustainable practice  
 
 - **Provide anonymised, real-world examples**, such as:  
-  - Encouraging recycling or correct waste disposal in a workplace setting  
-  - Supporting accessibility for visitors with additional needs  
-  - Participating in community safety campaigns (e.g. counter-terror awareness, safeguarding initiatives)  
-  - Promoting diversity and inclusion through fair staff management  
-  - Contributing to health and wellbeing activities (e.g. promoting safe working practices, mental health awareness)  
+  - Encouraging **recycling or correct waste disposal**  
+  - Supporting **accessibility** for visitors with additional needs  
+  - Participating in **community safety campaigns** (e.g. counter-terror awareness, safeguarding)  
+  - Promoting **diversity and inclusion** through fair staff management  
+  - Contributing to **wellbeing activities** (e.g. promoting safe working practices, mental health awareness)  
 
 - **Link to frameworks and regulations (generic):**  
-  - Health & Safety at Work Act 1974  
-  - Equality Act 2010  
-  - UK GDPR (responsible handling of data)  
-  - Modern Slavery Act 2015 (supply chain responsibility)  
-  - ISO 14001 (environmental management)  
-  - Organisational CSR, ESG, or sustainability policies  
+  - [Health and Safety at Work etc. Act 1974](https://www.hse.gov.uk/legislation/hswa.htm)  
+  - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)  
+  - [UK GDPR – Information Commissioner’s Office](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/)  
+  - [Modern Slavery Act 2015](https://www.legislation.gov.uk/ukpga/2015/30/contents/enacted)  
+  - [ISO 14001 – Environmental management systems](https://www.iso.org/iso-14001-environmental-management.html)  
+  - [National Protective Security Authority (NPSA) – Protective security advice](https://www.npsa.gov.uk/)  
+  - [Project Servator – Community vigilance initiative](https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/public-order-public-safety/project-servator/project-servator---community-leaflet.pdf)  
 
 ---
 
@@ -59,9 +60,9 @@ Evidence should be stored in the `evidence/` folder and kept site-neutral.
 
 Use `study_notes.md` to capture:  
 - Key CSR definitions and principles  
-- ESG (Environmental, Social, Governance) frameworks  
-- ISO standards relevant to sustainability and quality  
-- Examples of CSR in the security industry (e.g. Project Servator, Prevent strategy awareness, inclusive recruitment)  
+- [ESG (Environmental, Social, Governance) explained – CIPD](https://www.cipd.org/uk/knowledge/culture/well-being/environmental-social-governance-factsheet/)  
+- ISO standards relevant to sustainability and quality (ISO 9001, ISO 14001)  
+- Examples of CSR in the security industry (e.g. [Project Servator](https://www.npcc.police.uk/SysSiteAssets/media/downloads/publications/public-order-public-safety/project-servator/project-servator---community-leaflet.pdf), [Prevent strategy – GOV.UK](https://www.gov.uk/government/publications/prevent-duty-guidance))  
 - Notes from webinars, toolbox talks, or mentoring sessions about sustainability and ethics  
 
 ---
