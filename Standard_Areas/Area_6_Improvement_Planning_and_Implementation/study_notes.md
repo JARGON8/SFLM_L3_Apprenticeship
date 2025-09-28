@@ -1,5 +1,4 @@
 # Study Notes – Area 6: Improvement Planning and Implementation  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
 ---
 
