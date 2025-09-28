@@ -1,5 +1,4 @@
 # Communication Strategies  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
 As part of my apprenticeship, I have developed and applied structured communication strategies to ensure clarity, professionalism, and effective teamwork. These strategies are critical to my role in maintaining safety, service standards, and stakeholder confidence.  
 
