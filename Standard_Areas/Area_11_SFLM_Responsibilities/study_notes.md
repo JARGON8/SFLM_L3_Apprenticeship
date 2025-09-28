@@ -1,7 +1,6 @@
 # Study Notes – Area 11: Security First Line Manager (SFLM) Responsibilities  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
----
+
 
 ## 1. Definition  
 
