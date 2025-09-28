@@ -3,15 +3,16 @@
 
 
 **What I did:**  
-(Describe the task, activity, or incident you took part in. Keep it anonymised and generic. Focus on your role and responsibilities.)  
+I describe the task, activity, or incident I was involved in. I keep this anonymised and generic, focusing on my role and responsibilities.  
 
 **What I learned:**  
-(Explain the key learning points. Did you develop new skills, improve knowledge, or reinforce good practice? Highlight links to theory, legislation, or organisational policy.)  
+I explain the key learning points. I highlight whether I developed new skills, strengthened existing knowledge, or reinforced good practice. I also link my learning to relevant theory, legislation, or organisational policy.  
 
 **How this maps to the standard:**  
-(Link your reflection to the relevant **ST0330 apprenticeship area** and criteria. State whether it demonstrates knowledge, skills, or behaviours. Show evidence of meeting Pass or Distinction standards where possible.)  
+I show how this experience links to the relevant **ST0330 apprenticeship area** and criteria. I explain whether it demonstrates knowledge, skills, or behaviours, and where possible I highlight how it meets Pass or Distinction standards.  
 
 **Next steps:**  
-(Outline how you will apply this learning in future. Identify improvements, further training, or actions to embed best practice into daily work.)  
+I outline how I will apply this learning in the future. I identify any improvements, further training, or actions I will take to embed best practice into my daily work.  
+
 
 
