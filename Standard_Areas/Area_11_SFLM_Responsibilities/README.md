@@ -1,7 +1,6 @@
 # Security First Line Manager (SFLM) Responsibilities  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
----
+
 
 ## Purpose  
 
