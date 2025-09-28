@@ -1,5 +1,4 @@
 # Study Notes – Area 7: Compliance Management  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
 ---
 
