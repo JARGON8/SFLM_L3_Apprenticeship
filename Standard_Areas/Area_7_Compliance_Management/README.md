@@ -1,5 +1,4 @@
 # Compliance Management  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
 ---
 
