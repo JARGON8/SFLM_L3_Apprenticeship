@@ -1,5 +1,4 @@
 # Corporate Social Responsibility (CSR)  
-*(Security First Line Manager – Jorge Ariel Santiago Gonzalez)*  
 
 ---
 
