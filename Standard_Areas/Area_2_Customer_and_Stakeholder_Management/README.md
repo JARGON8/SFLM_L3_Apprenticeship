@@ -53,10 +53,11 @@ Useful reference material for `study_notes.md`:
   - High power/low interest → keep satisfied.  
   - Low power/high interest → keep informed.  
   - Low power/low interest → monitor.  
+
 - **Legislation & Guidance:**  
   - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) – fair treatment of all customers and stakeholders.  
-  - [GDPR / Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) – handling stakeholder information responsibly.  
-  - [ACAS Guidance on Handling Complaints](https://www.acas.org.uk/discipline-and-grievances-at-work) – approaches to resolving issues fairly.  
+  - [Data Protection Act 2018 (UK GDPR)](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) – handling stakeholder information responsibly.  
+  - [ACAS Guidance: Mediation – an approach to resolving workplace issues](https://www.acas.org.uk/mediation-an-approach-to-resolving-workplace-issues) – supporting fair resolution of complaints and disputes.  
 
 ---
 
@@ -69,4 +70,4 @@ Keep `reflections.md` updated with anonymised entries covering:
 - **How this maps to the standard:** Evidence of meeting Area 2 criteria in the ST0330 apprenticeship.  
 - **Next steps:** How to strengthen future stakeholder engagement and maintain customer confidence.  
 
----
+
