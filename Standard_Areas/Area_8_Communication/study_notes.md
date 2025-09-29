@@ -1,58 +1,109 @@
-Study Notes – Area 8: Communication
-(Apprenticeship Reflection – Jorge Ariel Santiago Gonzalez)
-1. What Communication Means to Me
-As part of my apprenticeship, I have learned that communication is the exchange of ideas, knowledge, or instructions between people. In security, this can be verbal, written, nonverbal, or digital. I now see that effective communication is not just about passing information, but ensuring it is understood correctly, acted upon, and free from unnecessary misunderstanding.
-👉 Principles, theories & methods of effective communication – Health Knowledge
-Key concepts I use daily:
-Sender / Encoder – the person giving information (me briefing my team).
-Receiver / Decoder – the person receiving it (e.g. control room officer).
-Channel / Medium – the method used (radio, face-to-face, email).
-Noise – barriers such as background noise, radio interference, or stress.
-Feedback – confirmation that the message has been understood.
-2. Models of Communication I Apply
-During my apprenticeship, I have studied different models of communication and related them to real workplace scenarios at Paddington Square:
-Shannon & Weaver’s Model
-Helps me think about interference (noise) on the radios and how I can reduce errors.
-Lasswell’s Model
-Reminds me to consider outcomes — e.g. “Who says what, to whom, through which channel, and with what effect?” Useful when giving clear evacuation instructions.
-Schramm’s Interactive Model
-Shows me that shared knowledge (“field of experience”) matters. For example, when briefing agency staff, I adapt language because they may not know site-specific jargon.
-Transactional Model
-Highlights that communication is constant and two-way. In a live incident, I am both giving and receiving information simultaneously.
-👉 Theoretical Communication – StudySmarter
-3. Principles of Effective Communication I Follow
-Through training and practice, I have applied the following principles:
-Clarity and Simplicity – I avoid jargon when briefing contractors or visitors.
-Conciseness – In emergencies, I keep radio messages short but accurate.
-Feedback – I ask officers to repeat back instructions to confirm understanding.
-Active Listening – I focus fully when a tenant or colleague raises a concern.
-Appropriate Medium – I use email for formal incident reports, but radio for urgent updates.
-Confidentiality – I ensure sensitive information is only shared with those who need to know.
-Calmness – Especially in stressful situations, my tone influences others.
-4. Communication in My Security Role
-In my day-to-day work at Paddington Square, I use communication in several key ways:
-Shift Handover Briefings – I follow a structured method to ensure critical risks, incidents, or updates are passed on clearly.
-Incident Reporting – I write detailed, factual reports that could be used in investigations or legal matters.
-Emergency Communication – I use radios and PEEPs (Personal Emergency Evacuation Plans) instructions to guide occupants safely.
-Customer Service – I communicate politely with tenants and visitors, ensuring a professional image of CIS Security Limited.
-Liaison with Stakeholders – I adapt communication styles depending on whether I am dealing with Knight Frank management, contractors, or members of the public.
-5. Frameworks That Support My Learning
-I now apply specific frameworks in my role:
-Sender–Message–Channel–Receiver–Feedback–Noise
-A checklist I use to plan or reflect on communications.
-7 C’s of Communication
-Clear
-Concise
-Concrete
-Correct
-Coherent
-Complete
-Courteous
-SWOT on Communication
-Strengths: calm tone, professionalism
-Weaknesses: sometimes too detailed under time pressure
-Opportunities: further training in conflict communication
-Threats: misunderstandings in emergencies
-6. How This Has Developed Me
-This area of the apprenticeship has improved how I lead and support my team. I am now more aware of barriers to communication and how to overcome them. I have practised role plays, toolbox talks, and incident simulations where communication was critical to success.
-I also recognise that in corporate security, poor communication can cause risk escalation, while effective communication can prevent incidents, protect people, and enhance service quality.
+# Study Notes – Area 8: Communication  
+*(Security First Line Manager – JARGON8)*  
+
+## Definition  
+Communication in security management refers to the accurate, professional, and secure exchange of information between colleagues, customers, stakeholders, and external partners (e.g. emergency services). It includes verbal, non-verbal, and written methods, ensuring that information is delivered clearly, adapted to the audience, and compliant with legislation and organisational standards.  
+
+    
+
+## Key UK Legislation & Guidance  
+- [Data Protection Act 2018 (UK GDPR)](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) – ensures confidentiality and secure handling of personal or sensitive information.  
+- [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) – requires fair, respectful, and inclusive communication, including reasonable adjustments.  
+- [Health and Safety at Work etc. Act 1974](https://www.legislation.gov.uk/ukpga/1974/37/contents) – underpins the duty to communicate risks and safe working practices effectively.  
+- [ACAS – Improving Communication in the Workplace](https://www.acas.org.uk/improving-communication-in-the-workplace) – practical workplace communication guidance.  
+- [BS 7499:2020 Code of Practice for Static Guarding](https://knowledge.bsigroup.com/products/provision-of-static-guarding-security-services-code-of-practice) – outlines professional standards for reporting, briefings, and communication in security operations.  
+
+    
+
+## Core Concepts  
+
+- **Verbal Communication**  
+  - Used in briefings, debriefings, incident responses, and stakeholder updates.  
+  - Requires clarity, tone control, and professional language.  
+
+- **Non-Verbal Communication**  
+  - Includes body language, facial expressions, and posture.  
+  - Critical for de-escalation during conflict situations.  
+
+- **Written Communication**  
+  - Logs, reports, emails, assignment instructions, and policies.  
+  - Must be clear, factual, and compliant with data protection laws.  
+
+- **Active Listening**  
+  - Listening carefully, confirming understanding, and responding appropriately.  
+  - Builds trust with colleagues and stakeholders.  
+
+- **Conflict Management**  
+  - Remaining calm, respectful, and professional.  
+  - Applying structured frameworks like **DESC** to de-escalate issues.  
+
+- **Confidentiality**  
+  - Communicating only on a need-to-know basis.  
+  - Ensuring sensitive data is protected under policy and legislation.  
+
+    
+
+## Frameworks & Models  
+
+### 1. Shannon-Weaver Model of Communication  
+- **Sender → Message → Channel → Receiver → Feedback**  
+- Highlights potential barriers (noise) such as poor radio signals, unclear instructions, or misunderstandings.  
+
+### 2. Transactional Model  
+- Emphasises two-way, interactive communication.  
+- Recognises the influence of **context** (cultural, organisational, situational).  
+
+### 3. DESC Model (Conflict Resolution)  
+- **Describe** the situation.  
+- **Express** your feelings.  
+- **Specify** what you want.  
+- **Consequences** if agreement is not reached.  
+- Example: “I understand you’re upset (Describe). I feel concerned about staff safety (Express). Please step back from the restricted area (Specify). If not, I will have to escalate the incident (Consequences).”  
+
+### 4. SMEAC Briefing Model (used in security and emergency services)  
+- **Situation:** What is happening?  
+- **Mission:** What needs to be achieved?  
+- **Execution:** How will tasks be carried out?  
+- **Administration:** Resources, timings, logistics.  
+- **Communication:** Channels, escalation routes, reporting lines.  
+
+    
+
+## Tools & Practices  
+
+- **Briefings & Debriefings:**  
+  - Daily communication to ensure alignment on tasks, risks, and updates.  
+  - Should follow structured models (e.g. SMEAC).  
+
+- **Incident Logs & Reports:**  
+  - Accurate, factual, and timely.  
+  - Critical for investigations, audits, and compliance.  
+
+- **Radios & Digital Communication Tools:**  
+  - Require clear, concise “radio discipline.”  
+  - Example: “Control, this is Patrol 1, commencing floor sweep, over.”  
+
+- **Handovers:**  
+  - Essential for shift continuity.  
+  - Should cover incidents, changes, and outstanding tasks.  
+
+- **Stakeholder Updates:**  
+  - Regular reports or meetings to maintain confidence.  
+  - Must balance detail with professionalism.  
+
+- **Role-Play Scenarios & Training:**  
+  - Practise conflict communication, evacuation announcements, or customer interactions.  
+
+    
+
+## Diagrams (for Notes)  
+
+- **Shannon-Weaver Model:** Sender → Message → Channel → Receiver → Feedback (with “Noise” barrier shown).  
+- **DESC Model Flow:** Situation → Feelings → Request → Consequences.  
+- **SMEAC Briefing Checklist:** 5-step flow diagram.  
+- **Communication Methods Chart:** Verbal | Non-Verbal | Written | Digital, with pros/cons for each.  
+
+    
+
+## Summary  
+Communication underpins all aspects of the Security First Line Manager role. From briefings and logs to conflict resolution and stakeholder management, effective communication ensures safety, compliance, and professionalism. By applying frameworks such as **Shannon-Weaver**, **DESC**, and **SMEAC**, and by complying with legislation like the **Data Protection Act 2018** and **Equality Act 2010**, managers can adapt their style to different audiences while protecting people, property, and organisational reputation.  
